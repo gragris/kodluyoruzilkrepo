@@ -1,4 +1,6 @@
 # Kodluyoruz Ilk Repo
+Bu repo [PatikaDev'in](https://app.patika.dev/) Baslangic Seviye Java ile Backend Web Development Patikası kapsamında oluşturulmuştır.
+
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 # Installation
